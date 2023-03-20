@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Module 11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Module 12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Module 13/Examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Module 14/Examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Test Code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Module 15/Example" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Module 16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Project 5 (My Personal Version)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Final" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Module 11/Examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Module 11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Code/Project 6 Shared" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Java Code/Module 15/Downloaded" />
+      <excludeFolder url="file://$MODULE_DIR$/Java Code/Module 9/Eamples" />
+      <excludeFolder url="file://$MODULE_DIR$/Java Code/Project 3/Proj3Draft2" />
+      <excludeFolder url="file://$MODULE_DIR$/Java Code/Project 3/Test Folder" />
+      <excludeFolder url="file://$MODULE_DIR$/Java Code/Project 5/Downloaded Files" />
+      <excludeFolder url="file://$MODULE_DIR$/Java Code/Project 6 (My Personal Version)/Downloaded" />
+      <excludeFolder url="file://$MODULE_DIR$/Java Code/Project 6/Downloaded" />
+      <excludeFolder url="file://$MODULE_DIR$/Module 11/Examples" />
+      <excludeFolder url="file://$MODULE_DIR$/Output" />
+      <excludeFolder url="file://$MODULE_DIR$/Code/Project 5 (John's version)/Downloaded Files" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="javafx" level="application" />
+    <orderEntry type="library" name="javafx" level="application" />
+  </component>
+</module>
